@@ -1,7 +1,0 @@
-plugins:
-    - name: solidity
-
-dependencies:
-    - name: v2-core
-      github: Uniswap/v2-core
-      branch: master
